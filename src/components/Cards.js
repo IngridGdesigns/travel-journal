@@ -5,7 +5,7 @@ export default function Cards(props) {
     return (
         <div className='card'>
             <section className='column-left'>
-                <img className="card-img" src={`/images/${props.item.coverImg}`} alt="images" />
+                <img className="card-img" src={`${process.env.PUBLIC_URL}/images/${props.item.coverImg}`} alt="images" />
             </section>
             <section className='column-right'>
                 <span className='material-symbols-outlined'>location_on</span>
