@@ -1,4 +1,4 @@
-# Travel Journal:tada:
+# Travel Journal :tada:
 
 A small project to practice CSS styling and React components
 
