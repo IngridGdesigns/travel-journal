@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bf0a16b.css",
-    "main.js": "/static/js/main.98710273.js",
-    "static/js/787.6ba621ea.chunk.js": "/static/js/787.6ba621ea.chunk.js",
-    "index.html": "/index.html",
-    "main.7bf0a16b.css.map": "/static/css/main.7bf0a16b.css.map",
-    "main.98710273.js.map": "/static/js/main.98710273.js.map",
-    "787.6ba621ea.chunk.js.map": "/static/js/787.6ba621ea.chunk.js.map"
+    "main.css": "/travel-journal/static/css/main.7bf0a16b.css",
+    "main.js": "/travel-journal/static/js/main.a7bcee9c.js",
+    "static/js/787.6ba621ea.chunk.js": "/travel-journal/static/js/787.6ba621ea.chunk.js",
+    "index.html": "/travel-journal/index.html",
+    "main.7bf0a16b.css.map": "/travel-journal/static/css/main.7bf0a16b.css.map",
+    "main.a7bcee9c.js.map": "/travel-journal/static/js/main.a7bcee9c.js.map",
+    "787.6ba621ea.chunk.js.map": "/travel-journal/static/js/787.6ba621ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bf0a16b.css",
-    "static/js/main.98710273.js"
+    "static/js/main.a7bcee9c.js"
   ]
 }
