@@ -1,6 +1,6 @@
 # Travel Journal :tada:
 
-A small project to practice CSS styling and React components
+A small project to practice CSS styling and React components. Used repo [react-gh-pages](https://github.com/gitname/react-gh-pages) to deploy to GitHub Pages
 
 
 
