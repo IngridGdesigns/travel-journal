@@ -1,6 +1,8 @@
-# Travel Journal
+# Travel Journal:tada:
 
-A small project to practice CSS and React
+A small project to practice CSS styling and React components
+
+
 
 # Getting Started with Create React App
 
