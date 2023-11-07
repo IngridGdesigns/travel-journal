@@ -1,5 +1,5 @@
 import React from 'react';
-import ReadMore from './ReadMore';
+
 
 export default function Cards(props) {
     return (
@@ -20,12 +20,3 @@ export default function Cards(props) {
         </div>
     )
 }
-/*8
-     id: 1,
-        date: "May 2018",
-        title: "Panajachel, Lake Atitlan",
-        description: "The busiest and most built-up lakeside town, Panajachel ('Pana') is the gateway to Lago de Atitlán for most travelers. Strolling the main street, Calle Santander – crammed with travel agencies, handicraft hawkers and rowdy bars, dodging tuk-tuks all the way – you may be forgiven for supposing this paradise lost..",
-        coverImg: "atitlan.jpeg",
-        location: "Guatemala",
-        googleMapLink: "placeholder link",
-        */
