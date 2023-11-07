@@ -1,12 +1,13 @@
 # Travel Journal :tada:
 
-A small project to practice CSS styling and React components. Used repo [react-gh-pages](https://github.com/gitname/react-gh-pages) to deploy to GitHub Pages
+A small project to practice CSS styling and React components. Used repo [react-gh-pages](https://github.com/gitname/react-gh-pages) to deploy to GitHub Pages. [View react app "travel-journal"](https://ingridgdesigns.github.io/travel-journal/)
 
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-[Documentation easier on the eyes](https://create-react-app.dev/docs/getting-started)
+This project was bootstrapped with 
+- [Create React App](https://github.com/facebook/create-react-app).
+- [Documentation easier on the eyes](https://create-react-app.dev/docs/getting-started)
 
 ## Available Scripts
 
