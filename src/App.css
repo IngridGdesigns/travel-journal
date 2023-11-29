@@ -17,6 +17,10 @@ a:hover{
   color: #808080;
 }
 
+.readMore:hover {
+  color: #bc356d;
+}
+
 section {
   padding: 20px;
 }
