@@ -15,7 +15,7 @@ export const data = [
         description: "Experience the beautiful landscape and meet new friends all while enjoying pristine warm waves of the Atlantic.",
         coverImg: "belize.jpeg",
         country: "BELIZE",
-        googleMapLink: "placeholder link",
+        googleMapLink: "https://www.google.com/maps/search/belize+secret+beach/@18.0171292,-87.9672513,13z/data=!3m1!4b1?entry=ttu",
     },
        {
         id: 3,
@@ -24,6 +24,6 @@ export const data = [
         description: "León long has been noted as a liberal political and intellectual centre of Nicaragua. There is no better place to brush up on your Spanish, take a salsa class or even just visit the local market.",
         coverImg: "nicaragua.jpeg",
         country: "NICARAGUA",
-        googleMapLink: "placeholder link",
+        googleMapLink: "https://www.google.com/maps/place/Le%C3%B3n,+Nicaragua/@12.4338925,-86.9600209,13z/data=!3m1!4b1!4m6!3m5!1s0x8f711f92bb8f7a77:0x3ab5c06f64ea313c!8m2!3d12.4342803!4d-86.8805219!16zL20vMDFuXzRo?entry=ttu",
     },
 ]
